@@ -69,15 +69,28 @@ internal class ImageDecoderInterceptor : Interceptor {
 
     /*
      * `decodeV1ImageNative` is modified version of
-     *  https://github.com/junheah/MangaViewAndroid/blob/master/app/src/main/java/ml/melun/mangaview/Downloader.java#L213-L245
+     *  https://github.com/junheah/MangaViewAndroid/blob/b69a4427258fe7fc5fb5363108572bbee0d65e94/app/src/main/java/ml/melun/mangaview/mangaview/Decoder.java#L6-L60
      *
      * MIT License
      *
      * Copyright (c) 2019 junheah
      */
-    private fun decodeV1ImageNative(input: Bitmap, chapter: Int, view_cnt: Int, half: Int = 0, CX: Int = MangaShowMe.V1_CX, CY: Int = MangaShowMe.V1_CY): Bitmap {
+    private fun decodeV1ImageNative(input: Bitmap, chapter: Int, view_cnt: Int, half: Int = 0, _CX: Int = MangaShowMe.V1_CX, _CY: Int = MangaShowMe.V1_CY): Bitmap {
         if (view_cnt == 0) return input
         val viewCnt = view_cnt / 10
+        var CX = _CX
+        var CY = _CY
+
+        //view_cnt / 10 > 30000 ? (this._CX = 1, this._CY = 6)  : view_cnt / 10 > 20000 ? this._CX = 1 : view_cnt / 10 > 10000 && (this._CY = 1)
+        // DO NOT (AUTOMATICALLY) REPLACE TO when USING IDEA. seems it doesn't detect correct condition
+        if (viewCnt > 30000) {
+            CX = 1
+            CY = 6
+        } else if (viewCnt > 20000) {
+            CX = 1
+        } else if (viewCnt > 10000) {
+            CY = 1
+        }
 
         //decode image
         val order = Array(CX * CY) { IntArray(2) }
@@ -122,7 +135,7 @@ internal class ImageDecoderInterceptor : Interceptor {
 
     /*
      * `decodeRandom` is modified version of
-     *  https://github.com/junheah/MangaViewAndroid/blob/master/app/src/main/java/ml/melun/mangaview/Downloader.java#L213-L245
+     *  https://github.com/junheah/MangaViewAndroid/blob/b69a4427258fe7fc5fb5363108572bbee0d65e94/app/src/main/java/ml/melun/mangaview/mangaview/Decoder.java#L6-L60
      *
      * MIT License
      *
