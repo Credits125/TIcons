@@ -1,0 +1,2 @@
+ComiCake("WhimSubs", "https://whimsubs.xyz", "en")
+ComiCake("Champion Scans", "https://reader.championscans.com", "en")
