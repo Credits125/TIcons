@@ -1,0 +1,2 @@
+class TrashScanlations : WpManga("Trash Scanlations", "https://trashscanlations.com/", "en")
+class ZeroScans : WpManga("Zero Scans", "https://zeroscans.com/", "en")
