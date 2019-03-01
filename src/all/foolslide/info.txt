@@ -1,0 +1,47 @@
+
+
+
+DONE
+
+
+FoolSlide("Jaimini's Box", "https://jaiminisbox.com", "en")
+FoolSlide("Hot Chocolate Scans", "http://hotchocolatescans.com", "en")
+FoolSlide("Helvetica Scans", "https://helveticascans.com", "en")
+FoolSlide("Sense-Scans", "https://sensescans.com", "en")
+FoolSlide("Sea Otter Scans", "https://reader.seaotterscans.com", "en")
+FoolSlide("Kirei Cake", "https://reader.kireicake.com", "en")
+FoolSlide("HiranoMoe Scans Bureau", "https://hiranomoe.com", "en")
+FoolSlide("Mangatellers", "http://www.mangatellers.gr", "en")
+FoolSlide("Iskultrip Scans", "http://www.maryfaye.net", "en")
+FoolSlide("PinkFatale", "http://manga.pinkfatale.net", "en")
+FoolSlide("Hatigarm Scans", "http://hatigarmscans.eu", "en")
+FoolSlide("World Three", "http://www.slide.world-three.org", "en")
+FoolSlide("The Cat Scans", "https://reader.thecatscans.com", "en")
+FoolSlide("Ajia no Scantrad", "https://ajianoscantrad.fr", "fr")
+FoolSlide("MangaScouts", "http://onlinereader.mangascouts.org")
+FoolSlide("Evil Flowers", "http://reader.evilflowers.com", "en")
+FoolSlide("AkaiYuhiMun team", "https://akaiyuhimun.ru", "ru")
+FoolSlide("LupiTeam", "https://lupiteam.net", "it")
+
+
+NOT DONE (DUE to following Reasons)
+
+
+
+FoolSlide("Silent Sky", "http://reader.silentsky-scans.net", "en")
+FoolSlide("Anata no Motokare", "https://motokare.maos.ca", "en")
+FoolSlide("Death Toll Scans", "https://reader.deathtollscans.net", "en")
+FoolSlide("DKThias Scanlations", "http://reader.dkthias.com", "en",)
+FoolSlide("Mangaichi Scanlation Division", "http://mangaichiscans.mokkori.fr", "en")
+FoolSlide("Angelic Scanlations", "http://www.angelicscans.net", "en")
+FoolSlide("Doki Fansubs", "https://kobato.hologfx.com", "en"
+FoolSlide("Yuri-ism", "https://reader.yuri-ism.com", "en")
+FoolSlide("One Time Scans", "https://otscans.com", "en")
+FoolSlide("Tsubasa Society", "https://www.tsubasasociety.com", "en")
+FoolSlide("Helheim", "http://helheim.pl", "pl", "/reader")
+FoolSlide("Storm in Heaven", "http://www.storm-in-heaven.net", "it")
+FoolSlide("Lilyreader", "https://manga.smuglo.li", "en")
+FoolSlide("Midnight Haven", "http://midnighthaven.shounen-ai.net", "en")
+FoolSlide("Русификация", "https://rusmanga.ru", "ru")
+FoolSlide("Nieznani", "http://reader.nieznani.mynindo.pl", "pl")
+FoolSlide("Yuri-ism", "https://reader.yuri-ism.com", "en", "/slide")
