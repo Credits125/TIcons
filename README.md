@@ -1,145 +1,113 @@
-<h3>User asked extensions icons</h3>
-  <p> Note: not all are present</p>
-<div id=3D"Book1_31863" align=3Dcenter x:publishsource=3D"Excel">
-	<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D269 style=3D'bord=
-er-collapse:
- collapse;table-layout:fixed;width:202pt'>
-		<col width=3D143 style=3D'mso-width-source:userset;mso-width-alt:5229;widt=
-h:107pt'>
-			<col class=3Dxl6531863 width=3D126 style=3D'mso-width-source:userset;mso-w=
-idth-alt:
- 4608;width:95pt'>
-				<tr height=3D20 style=3D'height:15.0pt'>
-					<td height=3D20 class=3Dxl1531863 width=3D143 style=3D'height:15.0pt;width:107pt'>gmanga.me</td>
-					<td class=3Dxl6531863 width=3D126 style=3D'width:95pt'>#117</td>
-				</tr>
-				<tr height=3D20 style=3D'height:15.0pt'>
-					<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>hitomi.la</td>
-					<td class=3Dxl6531863>#94</td>
-				</tr>
-				<tr height=3D20 style=3D'height:15.0pt'>
-					<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>madokami.al</td>
-					<td class=3Dxl6531863>#5</td>
-				</tr>
-				<tr height=3D20 style=3D'height:15.0pt'>
-					<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>manga.ae</td>
-					<td class=3Dxl6531863>#116</td>
-				</tr>
-				<tr height=3D20 style=3D'height:15.0pt'>
-					<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>mangakawaii.to</td>
-						<td class=3Dxl6531863>#144</td>
-					</tr>
-					<tr height=3D20 style=3D'height:15.0pt'>
-						<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>mangaku.in</td>
-						<td class=3Dxl6531863>#126</td>
-					</tr>
-					<tr height=3D20 style=3D'height:15.0pt'>
-						<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>mangareader.net
-</td>
-						<td class=3Dxl6531863>#171</td>
-					</tr>
-					<tr height=3D20 style=3D'height:15.0pt'>
-						<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>mangashiro.net</td>
-							<td class=3Dxl6531863>#127</td>
-						</tr>
-						<tr height=3D20 style=3D'height:15.0pt'>
-							<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>mangatown.com
-							</td>
-							<td class=3Dxl6531863>#132</td>
-						</tr>
-						<tr height=3D20 style=3D'height:15.0pt'>
-							<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>manhwaHentai
-							</td>
-							<td class=3Dxl6531863>#711</td>
-						</tr>
-						<tr height=3D20 style=3D'height:15.0pt'>
-							<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>Pururin.io</td>
-							<td class=3Dxl6531863>#92</td>
-						</tr>
-						<tr height=3D20 style=3D'height:15.0pt'>
-							<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>readcomicsonline.me</td>
-							<td class=3Dxl6531863>#33</td>
-						</tr>
-						<tr height=3D20 style=3D'height:15.0pt'>
-							<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>submanga.online</td>
-							<td class=3Dxl6531863>#133</td>
-						</tr>
-						<tr height=3D20 style=3D'height:15.0pt'>
-							<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>
-								<span style=3D'=
-box-sizing: border-box'>Tsumino.com</span>
-							</td>
-							<td class=3Dxl6531863>
-								<span style=3D'box-sizing: border-box;letter-spacin=
-g:-1px'>#201</span>
-							</td>
-						</tr>
-						<tr height=3D20 style=3D'height:15.0pt'>
-							<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>
-								<span style=3D'=
-box-sizing: border-box'>manhuagui.com</span>
-							</td>
-							<td class=3Dxl6531863>
-								<span style=3D'box-sizing: border-box;letter-spacin=
-g:-1px'>#271</span>
-							</td>
-						</tr>
-						<tr height=3D20 style=3D'height:15.0pt'>
-							<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>mangaindo.web.id</td>
-							<td class=3Dxl6531863>#314</td>
-						</tr>
-						<tr height=3D20 style=3D'height:15.0pt'>
-							<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>
-								<span style=3D'=
-box-sizing: border-box'>Komikcast.com</span>
-							</td>
-							<td class=3Dxl6531863>
-								<span style=3D'box-sizing: border-box;letter-spacin=
-g:-1px'>#315</span>
-							</td>
-						</tr>
-						<tr height=3D20 style=3D'height:15.0pt'>
-							<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>
-								<span style=3D'=
-font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-t=
-ext-stroke-width: 0px;
-  text-decoration-style: initial;text-decoration-color: initial'>otakufile.com</span>
-							</td>
-							<td class=3Dxl6531863>
-								<span style=3D'box-sizing: border-box;letter-spacin=
-g:-1px'>#358</span>
-							</td>
-						</tr>
-						<tr height=3D20 style=3D'height:15.0pt'>
-							<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>comicextra.com</td>
-								<td class=3Dxl6531863>
-									<span style=3D'box-sizing: border-box;letter-spacin=
-g:-1px'>#390</span>
-								</td>
-							</tr>
-							<tr height=3D20 style=3D'height:15.0pt'>
-								<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>
-									<span style=3D'=
-box-sizing: border-box'>Mangatail.me</span>
-								</td>
-								<td class=3Dxl6531863>#411</td>
-							</tr>
-							<tr height=3D20 style=3D'height:15.0pt'>
-								<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>
-									<span style=3D'=
-box-sizing: border-box'>Scantrad.fr</span>
-								</td>
-								<td class=3Dxl6531863>#414</td>
-							</tr>
-							<tr height=3D20 style=3D'height:15.0pt'>
-								<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>
-									<span style=3D'=
-box-sizing: border-box'>TwoKinds</span>
-								</td>
-								<td class=3Dxl6531863>#457</td>
-							</tr>
-							<tr height=3D20 style=3D'height:15.0pt'>
-								<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>pecintakomik.net</td>
-						</table>
-					</div>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
+
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+}
+
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header, #myTable tr:hover {
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
+
+<center><h2>User Asked Extensions Icons</h2></center>
+
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search by issue code.." title="Type in a issue code">
+
+<table id="myTable">
+  <tr class="header">
+    <th style="width:60%;">Source</th>
+    <th style="width:40%;">Issue Code</th>
+  </tr>
+<tr><td>gmanga.me</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/117">#117</a></td></tr>
+<tr><td>hitomi.la</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/94">#94</a></td></tr>
+<tr><td>madokami.al</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/5">#5</a></td></tr>
+<tr><td>manga.ae</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/116">#116</a></td></tr>
+<tr><td>mangakawaii.to</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/144">#144</a></td></tr>
+<tr><td>mangaku.in</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/126">#126</a></td></tr>
+<tr><td>mangareader.net</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/171">#171</a></td></tr>
+<tr><td>mangashiro.net</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/127">#127</a></td></tr>
+<tr><td>mangatown.com</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/132">#132</a></td></tr>
+<tr><td>manhwaHentai</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/711">#711</a></td></tr>
+<tr><td>Pururin.io</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/92">#92</a></td></tr>
+<tr><td>readcomicsonline.me</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/33">#33</a></td></tr>
+<tr><td>submanga.online</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/133">#133</a></td></tr>
+<tr><td>Tsumino.com</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/201">#201</a></td></tr>
+<tr><td>manhuagui.com</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/271">#271</a></td></tr>
+<tr><td>mangaindo.web.id</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/314">#314</a></td></tr>
+<tr><td>Komikcast.com</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/315">#315</a></td></tr>
+<tr><td>otakufile.com</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/358">#358</a></td></tr>
+<tr><td>comicextra.com</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/390">#390</a></td></tr>
+<tr><td>Mangatail.me</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/411">#411</a></td></tr>
+<tr><td>Scantrad.fr</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/414">#414</a></td></tr>
+<tr><td>TwoKinds</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/457">#457</a></td></tr>
+<tr><td>pecintakomik.net</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/464">#464</a></td></tr>
+<tr><td>nikkangecchan.jp</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/879">#879</a></td></tr>
+<tr><td>Manga-tr</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/828">#828</a></td></tr>
+<tr><td>kissdoujin.com</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/820">#820</a></td></tr>
+<tr><td>YaoiArmy</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/826">#826</a></td></tr>
+<tr><td>itascan.info/ </td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/753">#753</a></td></tr>
+<tr><td>ddt.hastareader.com </td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/753">#753</a></td></tr>
+<tr><td>dongmanmanhua.cn</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/752">#752</a></td></tr>
+<tr><td>LOLScans</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/740">#740</a></td></tr>
+<tr><td>InManga</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/739">#739</a></td></tr>
+<tr><td>ngonphongcomics.com</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/738">#738</a></td></tr>
+<tr><td>MangaToon</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/697">#697</a></td></tr>
+<tr><td>henchan.me</td><td><a href="https://github.com/inorichi/tachiyomi-extensions/issues/713">#713</a></td></tr>
+</table>
+
+<script>
+function myFunction() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[1];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+</script>
+
+</body>
+</html>
