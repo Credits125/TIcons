@@ -141,13 +141,5 @@ box-sizing: border-box'>TwoKinds</span>
 							</tr>
 							<tr height=3D20 style=3D'height:15.0pt'>
 								<td height=3D20 class=3Dxl1531863 style=3D'height:15.0pt'>pecintakomik.net</td>
-								<td class=3Dxl6531863>#464</td>
-							</tr>
-							<![if supportMisalignedColumns]>
-							<tr height=3D0 style=3D'display:none'>
-								<td width=3D143 style=3D'width:107pt'></td>
-								<td width=3D126 style=3D'width:95pt'></td>
-							</tr>
-							<![endif]>
 						</table>
 					</div>
