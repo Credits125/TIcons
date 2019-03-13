@@ -15,6 +15,16 @@
          border: 1px solid #ddd;
          margin-bottom: 12px;
          }
+         #myInputn {
+         background-image: url('/css/searchicon.png');
+         background-position: 10px 10px;
+         background-repeat: no-repeat;
+         width: 100%;
+         font-size: 16px;
+         padding: 12px 20px 12px 40px;
+         border: 1px solid #ddd;
+         margin-bottom: 12px;
+         }
          #myTable {
          border-collapse: collapse;
          width: 100%;
@@ -38,7 +48,7 @@
          <h2>User Asked Extensions Icons</h2>
       </center>
       <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search by issue code.." title="Type in a issue code">
-      <input type="text" id="myInput" onkeyup="myFunctionname()" placeholder="Search by source.." title="Type in source name">
+      <input type="text" id="myInputn" onkeyup="myFunctionname()" placeholder="Search by source.." title="Type in source name">
       <table id="myTable">
          <tr class="header">
             <th style="width:60%;">Source</th>
@@ -204,9 +214,12 @@
              }       
            }
          }
-         function myFunctionname() {
+
+      </script>
+      <script>
+           function myFunctionname() {
            var input, filter, table, tr, td, i, txtValue;
-           input = document.getElementById("myInput");
+           input = document.getElementById("myInputn");
            filter = input.value.toUpperCase();
            table = document.getElementById("myTable");
            tr = table.getElementsByTagName("tr");
