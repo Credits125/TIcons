@@ -4,10 +4,10 @@ Just for Fun
 
 
 For User Asked Extensions Icons visit https://github.com/as280093/TIcons/tree/master/Requested%20Extensions%20Icons
-<table align="center" style="width:100%">
+<table style="width:100%">
 <tr><th>Site</th><th>icon</th></tr>
 <tr><td>comicextra.com</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/comicextra.com/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
-<tr><td>ddt.hastareader.comÿ</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/ddt.hastareader.comÿ/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
+<tr><td>ddt.hastareader.com</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/ddt.hastareader.com/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
 <tr><td>dongmanmanhua.cn</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/dongmanmanhua.cn/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
 <tr><td>Doujinhentai</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/Doujinhentai/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
 <tr><td>Fullcomic.pro</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/Fullcomic.pro/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
@@ -21,7 +21,7 @@ For User Asked Extensions Icons visit https://github.com/as280093/TIcons/tree/ma
 <tr><td>holymanga.net</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/holymanga.net/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
 <tr><td>Ikuhentai</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/Ikuhentai/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
 <tr><td>InManga</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/InManga/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
-<tr><td>itascan.infoÿ</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/itascan.infoÿ/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
+<tr><td>itascan.info</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/itascan.info/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
 <tr><td>kissdoujin.com</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/kissdoujin.com/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
 <tr><td>Komikcast.com</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/Komikcast.com/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
 <tr><td>komikgo.com</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/komikgo.com/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
