@@ -7,7 +7,7 @@ For User Asked Extensions Icons visit https://github.com/as280093/TIcons/tree/ma
 <table style="width:100%">
 <tr><th>Site</th><th>icon</th></tr>
 <tr><td>comicextra.com</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/comicextra.com/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
-<tr><td>ddt.hastareader.com</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/ddt.hastareader.com/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
+<tr><td>ddt.hastareader.com</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/ddt.hastareader.com%C2%A0/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
 <tr><td>dongmanmanhua.cn</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/dongmanmanhua.cn/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
 <tr><td>Doujinhentai</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/Doujinhentai/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
 <tr><td>Fullcomic.pro</td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/Fullcomic.pro/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
