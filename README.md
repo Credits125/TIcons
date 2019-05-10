@@ -5,6 +5,8 @@ Just for Fun
 For User Asked Extensions Icons visit https://github.com/as280093/TIcons/tree/master/Requested%20Extensions%20Icons
 <table style="width:100%">
 <tr><th>Site</th><th>icon</th></tr>
+<tr><td><a href="https://github.com/as280093/TIcons/tree/master/Requested%20Extensions%20Icons/comic.naver.com/res">comic.naver.com</a></td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/comic.naver.com/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
+<tr><td><a href="https://github.com/as280093/TIcons/tree/master/Requested%20Extensions%20Icons/manamoa.net/res">manamoa.net</a></td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/manamoa.net/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
 <tr><td><a href="https://github.com/as280093/TIcons/tree/master/Requested%20Extensions%20Icons/tmohentai.com/res">tmohentai.com</a></td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/tmohentai.com/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
 <tr><td><a href="https://github.com/as280093/TIcons/tree/master/Requested%20Extensions%20Icons/mangatensei.com/res">mangatensei.com</a></td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/mangatensei.com/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
 <tr><td><a href="https://github.com/as280093/TIcons/tree/master/Requested%20Extensions%20Icons/comicextra.com/res">comicextra.com</a></td><td><img src="https://raw.githubusercontent.com/as280093/TIcons/master/Requested%20Extensions%20Icons/comicextra.com/res/mipmap-xhdpi/ic_launcher.png" align=center" /></td></tr>
